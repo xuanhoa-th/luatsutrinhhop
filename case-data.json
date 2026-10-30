@@ -1,0 +1,20 @@
+[
+    {
+        "img":"img4.jpg",
+        "title":"Health Care Law",
+        "tag":"Skirmish",
+        "link":"case-detail.html"
+    },
+    {
+        "img":"img5.jpg",
+        "title":"Criminal Law",
+        "tag":"Skirmish",
+        "link":"case-detail.html"
+    },
+    {
+        "img":"img6.jpg",
+        "title":"Drug Offense",
+        "tag":"Skirmish",
+        "link":"case-detail.html"
+    }
+]
